@@ -1,0 +1,17 @@
+{
+  "name": "bebe-ray-gardon-ai-goddess",
+  "version": "1.0.0",
+  "description": "AI Goddess Command Center - A sophisticated chat interface",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": ["ai", "chat", "interface"],
+  "author": "Bebe Ray Gardon",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
